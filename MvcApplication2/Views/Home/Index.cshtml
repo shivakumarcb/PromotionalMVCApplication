@@ -1,0 +1,71 @@
+﻿@model MvcApplication2.Models.CartItems
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<h2>@ViewBag.Message</h2>
+@using (Html.BeginForm()) {
+    <div>
+        <fieldset>
+            <div >
+            <legend>Add Cart</legend>
+
+            <div class="editor-label">
+                @Html.LabelFor(m => m.AItem)
+            </div>
+            <div class="editor-field">
+                @Html.TextBoxFor(m => m.AQuantity)
+
+            </div>
+
+            <div class="editor-label">
+                @Html.LabelFor(m => m.BItem)
+            </div>
+            <div class="editor-field">
+                @Html.TextBoxFor(m => m.BQuantity)
+         
+            </div>
+
+               <div class="editor-label">
+                @Html.LabelFor(m => m.CItem)
+            </div>
+            <div class="editor-field">
+                @Html.TextBoxFor(m => m.CQuantity)
+       
+            </div>
+               <div class="editor-label">
+                @Html.LabelFor(m => m.DItem)
+            </div>
+            <div class="editor-field">
+                @Html.TextBoxFor(m => m.DQuantity)
+ 
+            </div>
+ 
+
+            <p>
+                <input type="submit" value="Get Price" />
+            </p>
+    </div>
+            <div>
+                 <div class="editor-label">
+                     @Html.LabelFor(m => m.OriginalPrice) <span> @Html.TextBoxFor(m => m.OriginalPrice)</span>
+              
+            </div>
+     
+               <div class="editor-label">
+          
+                      @Html.LabelFor(m => m.Discount) <span> @Html.TextBoxFor(m => m.Discount)</span>
+            </div>
+               <div class="editor-label">
+                @Html.LabelFor(m => m.FinalPrice) <span> @Html.TextBoxFor(m => m.FinalPrice)</span>
+               
+             
+
+            </div>
+                </div>
+
+          
+        </fieldset>
+    </div>
+}
+

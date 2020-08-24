@@ -1,0 +1,4 @@
+C:\Users\dell\documents\visual studio 2012\Projects\MvcApplication2\Promotion\bin\Debug\Promotion.dll
+C:\Users\dell\documents\visual studio 2012\Projects\MvcApplication2\Promotion\bin\Debug\Promotion.pdb
+C:\Users\dell\documents\visual studio 2012\Projects\MvcApplication2\Promotion\obj\Debug\Promotion.dll
+C:\Users\dell\documents\visual studio 2012\Projects\MvcApplication2\Promotion\obj\Debug\Promotion.pdb

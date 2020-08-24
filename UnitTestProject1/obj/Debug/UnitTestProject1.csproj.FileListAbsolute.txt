@@ -1,0 +1,7 @@
+C:\Users\dell\documents\visual studio 2012\Projects\MvcApplication2\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\dell\documents\visual studio 2012\Projects\MvcApplication2\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\dell\documents\visual studio 2012\Projects\MvcApplication2\UnitTestProject1\bin\Debug\Promotion.dll
+C:\Users\dell\documents\visual studio 2012\Projects\MvcApplication2\UnitTestProject1\bin\Debug\Promotion.pdb
+C:\Users\dell\documents\visual studio 2012\Projects\MvcApplication2\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\dell\documents\visual studio 2012\Projects\MvcApplication2\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\dell\documents\visual studio 2012\Projects\MvcApplication2\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
